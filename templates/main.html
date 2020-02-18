@@ -1,9 +1,10 @@
 <html>
     <head>
         <title>My Flask Site</title>
+        <link rel="stylesheet" href="../static/styles.css">
     </head>
     <body>
-        <h1>cjool</h1>
+        <h1 id="test">cjool</h1>
         <div><a href="{{ host }}about">About</a></div>
         <p>{% if msg %} {{ msg }} {% endif %}</p>
     </body>
