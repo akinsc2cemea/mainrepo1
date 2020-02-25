@@ -1,1 +1,24 @@
-#test {color:red;}
+.rectangle {
+    background-color: green;
+}
+
+#square {
+    width: 100px;
+    height: 100px;
+}
+img {
+    width: 1894px;
+    height: 400px;
+}
+#graph {
+    width: 700px;
+    height: 550px;
+}
+#graph1 {
+    width: 700px;
+    height: 280px;
+}
+#tipgraph {
+    width: 700px;
+    height: 500px;
+}
